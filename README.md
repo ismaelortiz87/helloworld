@@ -7,3 +7,4 @@ To build and run this image just run:
 docker build . -t helloworld
 docker run -p 80:80 helloworld
 ```
+Hello world V 1.2
